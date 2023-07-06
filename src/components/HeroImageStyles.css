@@ -7,7 +7,7 @@
 
 .hero-img:before{
     content:"";
-    background: url('../assets/moon.jpg') no-repeat center/cover;
+    background: url('../assets/stars.jpg') no-repeat center/cover;
     height: 100%;
     width: 100%;
     position: absolute;
